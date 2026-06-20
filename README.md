@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=260&color=gradient&customColorList=0,12,20&text=Portfolio%20Website&fontSize=58&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=280&color=gradient&customColorList=24,20,17&text=Portfolio%20Website&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
 # 🚀 Potnuru Teja Portfolio
 
