@@ -1,50 +1,117 @@
-# potnuru-teja-portfolio
+<div align="center">
 
-Personal portfolio website for **Potnuru Teja** — Data Science undergraduate, built to impress data-focused recruiters within the first 5–10 seconds.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Portfolio%20Website&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-## Tech stack
+# 🚀 Potnuru Teja Portfolio
 
-- **Next.js 14** (App Router)
-- **Tailwind CSS** — custom design tokens (dark teal + coral palette)
-- **Framer Motion** — scroll-triggered reveals, animated SVG hero chart
-- **Lucide React** — icon library
+### Modern Data Science Portfolio built using Next.js & Tailwind CSS
 
-## Sections
+<br>
 
-| Section | Purpose |
-|---|---|
-| Hero | Animated self-drawing chart + typed tagline |
-| About | Bio, stats, education |
-| Projects | Netflix EDA Dashboard + ABG Motors Sales Analysis |
-| Experience | Kodacy AI/ML Intern, Internshala Trainee |
-| Skills | Categorised toolkit (languages, libraries, tools, certs) |
-| Contact | Social links + mailto-powered contact form |
+<a href="https://portfolio1505.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-00F7F7?style=for-the-badge"/>
+</a>
 
-## Local setup
+<a href="https://github.com/potnuruteja115/Portfolio">
+  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
-```bash
-git clone https://github.com/<your-username>/potnuru-teja-portfolio
-cd potnuru-teja-portfolio
-npm install
-npm run dev
+</div>
+
+## 🎯 About This Portfolio
+
+This portfolio was designed and developed to showcase my:
+
+- 📊 Data Science Projects
+- 🤖 AI & Machine Learning Experience
+- 💻 Software Development Skills
+- 🏆 Certifications & Achievements
+- 📈 Coding Profiles & Statistics
+
+The goal is to create a professional first impression within the first few seconds for recruiters and hiring managers.
+
+## 🏗️ Architecture
+
+```text
+                 Portfolio Website
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+
+      Hero           About          Skills
+
+        │               │               │
+
+        ▼               ▼               ▼
+
+    Projects      Experience     Certificates
+
+                        │
+                        ▼
+
+                    Contact
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+## ⚡ Tech Stack
 
-## Customising
+<div align="center">
 
-All content lives in the component files under `/components`. To update:
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel"/>
 
-- **Projects** → `components/Projects.js`
-- **Experience** → `components/Experience.js`
-- **Skills** → `components/Skills.js`
-- **Contact links** → `components/Contact.js` and `components/Hero.js`
-- **Color palette** → `tailwind.config.js` + `app/globals.css`
+</div>
 
-## Deploying to Vercel
+## ✨ Features
 
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) → New Project → import the repo
-3. Select **Next.js** as the preset → Deploy
+✅ Fully Responsive Design
 
-No environment variables required.
+✅ Smooth Scroll Animations
+
+✅ Interactive Hero Section
+
+✅ Project Showcase
+
+✅ Experience Timeline
+
+✅ Skills Visualization
+
+✅ Contact Form
+
+✅ Modern UI/UX
+
+✅ Optimized Performance
+
+## 🚀 Deployment Workflow
+
+```text
+Local Development
+        │
+        ▼
+
+GitHub Repository
+        │
+        ▼
+
+Vercel Build
+        │
+        ▼
+
+Production Deployment
+        │
+        ▼
+
+Live Portfolio
+```
+
+<div align="center">
+
+### Made with using Claude + Next.js + Tailwind CSS
+
+⭐ If you like this project, consider giving it a star.
+
+</div>
+
